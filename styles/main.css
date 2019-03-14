@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body{
+    background-color: rgb(49, 44, 44)
+}
+nav div a{
+    font-family: 'Orbitron', sans-serif;
+}
+.carousel, .carousel .carousel-item {
+    height: 200px;
+    
+}
